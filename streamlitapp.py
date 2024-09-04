@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 import streamlit as st
 
 # load the updated model to be make live
-model = joblib.load("liveModelIV1.pkl")
+model = joblib.load("liveModelV1.pkl")
 
 # load the data to check accuracy
 data = pd.read_csv("mobile_price_range_data.csv")
