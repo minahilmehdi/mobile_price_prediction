@@ -70,15 +70,9 @@ Clone the repo
 
 Install dependencies
 
-nginx
-Copy
-Edit
 pip install -r requirements.txt
 Run the app
 
-arduino
-Copy
-Edit
 streamlit run streamlitapp.py
 🤝 Contribution:
 This project was built by Minahil Mehdi as part of her AI training journey under NAVTTC, with an A+ certification in Data Science, AI, and Blockchain.
