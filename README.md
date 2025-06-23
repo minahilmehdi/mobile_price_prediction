@@ -37,9 +37,7 @@ MLflow (optional)
 Git/GitHub
 
 📁 Project Structure:
-bash
-Copy
-Edit
+
 ├── mobile_price_range_data.csv        # Dataset
 ├── streamlitapp.py                    # Streamlit frontend
 ├── *.pkl                              # Trained model files
